@@ -1,0 +1,6 @@
+./datasets
+.env
+.ipynb_checkpoints
+.DS_Store
+.idea/
+datasets
