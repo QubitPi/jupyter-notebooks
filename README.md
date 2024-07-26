@@ -9,7 +9,7 @@ Setup
 ### Getting Source Code
 
 ```console
-https://github.com/QubitPi/california-housing-price.git
+https://github.com/QubitPi/jupyter-notebooks.git
 ```
 
 ### Creating an Isolated Environment
@@ -19,7 +19,7 @@ environment by
 
 ```console
 python3 -m pip install --user -U virtualenv
-cd california-housing-price
+cd jupyter-notebooks
 python3 -m virtualenv .venv
 ```
 
@@ -66,6 +66,6 @@ jupyter notebook
 A Jupyter server is now running in our terminal, listening to port 8888. We can visit this server by opening our web
 browser to http://localhost:8888/
 
-Open up the [notebook](./Housing.ipynb)
+Open up one of the [notebooks](./notebooks)
 
 [Python Version Badge]: https://img.shields.io/badge/Python-3.10-brightgreen?style=for-the-badge&logo=python&logoColor=white
