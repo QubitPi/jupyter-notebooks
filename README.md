@@ -12,6 +12,18 @@ Setup
 https://github.com/QubitPi/jupyter-notebooks.git
 ```
 
+### Navigating to A Notebook Directory
+
+```console
+cd jupyter-notebooks/notebooks
+```
+
+Each subdirectory in `notebooks` is a standalone Jupyter notebook. Choose and navigate into one of them. For example
+
+```console
+cd housing
+```
+
 ### Creating an Isolated Environment
 
 It is strongly recommended to work in an isolated environment. Install virtualenv and create an isolated Python
@@ -19,7 +31,6 @@ environment by
 
 ```console
 python3 -m pip install --user -U virtualenv
-cd jupyter-notebooks
 python3 -m virtualenv .venv
 ```
 
@@ -46,7 +57,8 @@ or, on Windows
 ### Installing Dependencies
 
 ```console
-python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+pip3 install jupyter
+pip3 install -r requirements.txt
 ```
 
 If we created a virtualenv, we need to register it to Jupyter and give it a name:
