@@ -5,3 +5,4 @@
 .idea/
 datasets
 *.hdf5
+*.txt
