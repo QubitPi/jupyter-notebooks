@@ -3,6 +3,13 @@
 .ipynb_checkpoints
 .DS_Store
 .idea/
+
+# housing
 datasets
+
+# gravitational-wave
 *.hdf5
+
+# story-telling
 *.txt
+notebooks/storytelling/alice.png

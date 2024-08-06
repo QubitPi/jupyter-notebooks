@@ -1,1 +1,5 @@
 internetarchive
+pillow
+numpy
+matplotlib
+wordcloud
