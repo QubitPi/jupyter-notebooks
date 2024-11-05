@@ -1,7 +1,9 @@
-California Median Housing Price Prediction
-==========================================
+Jupyter Notebooks
+=================
 
-![Python Version Badge][Python Version Badge]
+[![Notebooks badge]][Notebooks URL]
+![Python Version Badge]
+[![Apache License Badge]][Apache License, Version 2.0]
 
 Setup
 -----
@@ -80,4 +82,16 @@ browser to http://localhost:8888/
 
 Open up one of the [notebooks](./notebooks)
 
-[Python Version Badge]: https://img.shields.io/badge/Python-3.10-brightgreen?style=for-the-badge&logo=python&logoColor=white
+License
+-------
+
+The use and distribution terms for [jupyter-notebooks]() are covered by the [Apache License, Version 2.0].
+
+[Apache License Badge]: https://img.shields.io/badge/Apache%202.0-F25910.svg?style=for-the-badge&logo=Apache&logoColor=white
+[Apache License, Version 2.0]: https://www.apache.org/licenses/LICENSE-2.0
+
+[Notebooks badge]: https://img.shields.io/badge/Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[Notebooks URL]: https://jupyter-notebooks.qubitpi.org/
+
+[Python Version Badge]: https://img.shields.io/badge/Python-3.10-FFD845?labelColor=498ABC&style=for-the-badge&logo=python&logoColor=white
+
