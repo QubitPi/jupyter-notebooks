@@ -59,7 +59,6 @@ or, on Windows
 ### Installing Dependencies
 
 ```console
-pip3 install jupyter
 pip3 install -r requirements.txt
 ```
 
