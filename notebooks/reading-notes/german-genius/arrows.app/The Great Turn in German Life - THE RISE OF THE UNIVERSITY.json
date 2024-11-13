@@ -1,0 +1,444 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 409.1482491437296,
+        "y": 198.4360582914996
+      },
+      "caption": "University of Göttingen",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 1.4997597826618576e-32,
+        "y": 302
+      },
+      "caption": "Gerlach Adolf von Münchhausen",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": -228.96086737638532,
+        "y": 530.9608673763854
+      },
+      "caption": "Utrecht",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": -161.89978194819594,
+        "y": 21.58135193140231
+      },
+      "caption": "Italy",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 450.0497207759437,
+        "y": 618.5013501425406
+      },
+      "caption": "Theology",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 712.6314979550588,
+        "y": 288.07951355627836
+      },
+      "caption": "freedom",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 1022.9792453591779,
+        "y": -6.903899710741852
+      },
+      "caption": "Diverse fields of studies",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 1250.5793614968234,
+        "y": -176.58634000473353
+      },
+      "caption": "More practical stuff",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 1115.2186189754468,
+        "y": 236.64778879624618
+      },
+      "caption": "More students",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 207.43559349407101,
+        "y": -45.38772219688886
+      },
+      "caption": "Seminar",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 611.4795061024121,
+        "y": -278.6625839057442
+      },
+      "caption": "Lecture",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 142.9948431600647,
+        "y": -355.2028623648249
+      },
+      "caption": "PhD",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 1.4997597826618576e-32,
+        "y": -252.82331569095993
+      },
+      "caption": "Departments",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": -84.37893662809651,
+        "y": -75.44318602717414
+      },
+      "caption": "Research",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 358.4755205338753,
+        "y": -424.73450307978703
+      },
+      "caption": "Knowledge",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 587.2037771054079,
+        "y": -27.467245064166946
+      },
+      "caption": "New Education",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 848.9180135334079,
+        "y": -409.12354897725226
+      },
+      "caption": "New German Society",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 1115.2186189754468,
+        "y": -443.50463316864176
+      },
+      "caption": "Nationalism",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 983.173433730296,
+        "y": -176.58634000473342
+      },
+      "caption": "Education in all social-levels",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "type": "studied abroad in ",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n3"
+    },
+    {
+      "id": "n1",
+      "type": "toured",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n4"
+    },
+    {
+      "id": "n2",
+      "type": "university reform via",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n0"
+    },
+    {
+      "id": "n3",
+      "type": "restricted",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n5"
+    },
+    {
+      "id": "n4",
+      "type": "enlightened",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n6"
+    },
+    {
+      "id": "n5",
+      "type": "censorship",
+      "style": {},
+      "properties": {},
+      "fromId": "n5",
+      "toId": "n6"
+    },
+    {
+      "id": "n6",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n7"
+    },
+    {
+      "id": "n7",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n8"
+    },
+    {
+      "id": "n8",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n9"
+    },
+    {
+      "id": "n9",
+      "type": "developed",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n10"
+    },
+    {
+      "id": "n10",
+      "type": "contrasting",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n11"
+    },
+    {
+      "id": "n11",
+      "type": "ancestor of",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n12"
+    },
+    {
+      "id": "n12",
+      "type": "ancestor of",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n13"
+    },
+    {
+      "id": "n13",
+      "type": "ancestor of",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n14"
+    },
+    {
+      "id": "n14",
+      "type": "learning old",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n15"
+    },
+    {
+      "id": "n15",
+      "type": "discovering new",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n15"
+    },
+    {
+      "id": "n16",
+      "type": "resulted in",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n16"
+    },
+    {
+      "id": "n17",
+      "type": "resulted in",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n16"
+    },
+    {
+      "id": "n18",
+      "type": "resulted in",
+      "style": {},
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n16"
+    },
+    {
+      "id": "n19",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n16",
+      "toId": "n17"
+    },
+    {
+      "id": "n20",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n18"
+    },
+    {
+      "id": "n21",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n19"
+    }
+  ]
+}
