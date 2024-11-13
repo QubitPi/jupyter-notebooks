@@ -9,12 +9,10 @@ def render_arrows_app_json(json_file: str):
         nodes = graph["nodes"]
         links = graph["relationships"]
 
-    node_map = {}
     for node in nodes:
-        net.add_node(node["caption"])
-        node_map[node["id"]] = node["caption"]
+        net.add_node(node["id"], label=node["caption"])
 
     for link in links:
-        net.add_edge(node_map[link["fromId"]], node_map[link["toId"]], title=link["type"])
+        net.add_edge(link["fromId"],link["toId"], title=link["type"])
 
     return net
