@@ -12,3 +12,6 @@ datasets
 
 # story-telling
 die-marchen-der-gebruder-grimm-kinder-und-hausmarchen-141-mbytes-20200716
+
+__pycache__
+notebooks/reading-notes/lib/
