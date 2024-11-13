@@ -2,7 +2,7 @@ def render_arrows_app_json(json_file: str):
     import json
     from pyvis.network import Network
 
-    net = Network(notebook=True)
+    net = Network(notebook=True, directed=True)
 
     with open(json_file, 'r') as f:
         graph = json.load(f)
