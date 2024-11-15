@@ -1,6 +1,8 @@
+import os
+import json
+from pyvis.network import Network
+
 def render_arrows_app_json(json_file: str):
-    import json
-    from pyvis.network import Network
 
     net = Network(notebook=True, directed=True)
 
@@ -13,6 +15,6 @@ def render_arrows_app_json(json_file: str):
         net.add_node(node["id"], label=node["caption"])
 
     for link in links:
-        net.add_edge(link["fromId"],link["toId"], title=link["type"])
+        net.add_edge(link["fromId"],link["toId"], label=link["type"])
 
     return net
