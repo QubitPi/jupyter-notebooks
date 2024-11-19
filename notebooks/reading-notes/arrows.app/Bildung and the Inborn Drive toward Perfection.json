@@ -1,0 +1,574 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": -858.3788198200727,
+        "y": 290.0233567490314
+      },
+      "caption": "Principia Mathematica",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": -507,
+        "y": 58
+      },
+      "caption": "Isaac Newton",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": -351,
+        "y": 280
+      },
+      "caption": "Kepler",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": -183,
+        "y": 456
+      },
+      "caption": "Galileo",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 78,
+        "y": 525.5243926626097
+      },
+      "caption": "European Explorations",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 160.61690699567123,
+        "y": -120.6296306652797
+      },
+      "caption": "Christianity",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": -55,
+        "y": 141.57947575014344
+      },
+      "caption": "Science in common language",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 563.4910181317075,
+        "y": -142.88288288081822
+      },
+      "caption": "Soul",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 383.3255493729105,
+        "y": 280
+      },
+      "caption": "Mind",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 496.21440808702664,
+        "y": 559.6157702939696
+      },
+      "caption": "John Locke",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 681.6280693375442,
+        "y": 374.2021090434521
+      },
+      "caption": "Essay Concerning Human Understanding",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 987.6164435272735,
+        "y": -77.39572230280035
+      },
+      "caption": "Religious Origin",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 1085.1588623708706,
+        "y": 607.1807210275463
+      },
+      "caption": "Experience & Observations",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 1334.5939902825498,
+        "y": 175.14640629207565
+      },
+      "caption": "Idea",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 987.6164435272735,
+        "y": 399.1564594731253
+      },
+      "caption": "Experience",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 1085.1588623708706,
+        "y": 175.14640629207565
+      },
+      "caption": "Motivation",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 814.602039696761,
+        "y": 108.2281386842352
+      },
+      "caption": "transcendent force",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 722.5939902825498,
+        "y": 795.7071479253295
+      },
+      "caption": "Psychology",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": -351,
+        "y": -220.94698925677721
+      },
+      "caption": "Gottfried Wilhelm Leibniz",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": -183,
+        "y": -480.3222919347161
+      },
+      "caption": "Change",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 160.61690699567123,
+        "y": -480.3222919347161
+      },
+      "caption": "Historicism",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 614.3075595038424,
+        "y": -428.04428957199013
+      },
+      "caption": "German aesthetics",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 523.43211341898,
+        "y": -270.8508348401291
+      },
+      "caption": "Human",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 1085.1588623708706,
+        "y": -379.3222919347161
+      },
+      "caption": "\"German Genius\"",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 1355.5939902825498,
+        "y": -453.3222919347161
+      },
+      "caption": "Kant",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "type": "wrote",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n0"
+    },
+    {
+      "id": "n5",
+      "type": "challenged",
+      "style": {},
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n5"
+    },
+    {
+      "id": "n6",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n6"
+    },
+    {
+      "id": "n7",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n2",
+      "toId": "n6"
+    },
+    {
+      "id": "n8",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n3",
+      "toId": "n6"
+    },
+    {
+      "id": "n9",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n4",
+      "toId": "n6"
+    },
+    {
+      "id": "n10",
+      "type": "Theology",
+      "style": {},
+      "properties": {},
+      "fromId": "n5",
+      "toId": "n7"
+    },
+    {
+      "id": "n11",
+      "type": "Consciousness, Language",
+      "style": {},
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n8"
+    },
+    {
+      "id": "n15",
+      "type": "contrasting",
+      "style": {},
+      "properties": {},
+      "fromId": "n8",
+      "toId": "n7"
+    },
+    {
+      "id": "n16",
+      "type": "contrasting",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n8"
+    },
+    {
+      "id": "n17",
+      "type": "Example",
+      "style": {},
+      "properties": {},
+      "fromId": "n8",
+      "toId": "n9"
+    },
+    {
+      "id": "n18",
+      "type": "Wrote",
+      "style": {},
+      "properties": {},
+      "fromId": "n9",
+      "toId": "n10"
+    },
+    {
+      "id": "n19",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n8"
+    },
+    {
+      "id": "n20",
+      "type": "proposes",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n11"
+    },
+    {
+      "id": "n21",
+      "type": "proposes",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n12"
+    },
+    {
+      "id": "n22",
+      "type": "shapes",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n13"
+    },
+    {
+      "id": "n23",
+      "type": "shape",
+      "style": {},
+      "properties": {},
+      "fromId": "n12",
+      "toId": "n13"
+    },
+    {
+      "id": "n24",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n14"
+    },
+    {
+      "id": "n25",
+      "type": "shapes",
+      "style": {},
+      "properties": {},
+      "fromId": "n14",
+      "toId": "n15"
+    },
+    {
+      "id": "n26",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n16"
+    },
+    {
+      "id": "n27",
+      "type": "shapes",
+      "style": {},
+      "properties": {},
+      "fromId": "n16",
+      "toId": "n15"
+    },
+    {
+      "id": "n28",
+      "type": "born",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n17"
+    },
+    {
+      "id": "n29",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n18",
+      "toId": "n6"
+    },
+    {
+      "id": "n30",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n18",
+      "toId": "n19"
+    },
+    {
+      "id": "n31",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n19",
+      "toId": "n20"
+    },
+    {
+      "id": "n32",
+      "type": "Leibnizian idea of perfectibility",
+      "style": {},
+      "properties": {},
+      "fromId": "n18",
+      "toId": "n21"
+    },
+    {
+      "id": "n33",
+      "type": "internal side of",
+      "style": {},
+      "properties": {},
+      "fromId": "n20",
+      "toId": "n22"
+    },
+    {
+      "id": "n34",
+      "type": "external side o",
+      "style": {},
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n22"
+    },
+    {
+      "id": "n35",
+      "type": "many-sided man",
+      "style": {},
+      "properties": {},
+      "fromId": "n21",
+      "toId": "n23"
+    },
+    {
+      "id": "n36",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n23",
+      "toId": "n24"
+    }
+  ]
+}
