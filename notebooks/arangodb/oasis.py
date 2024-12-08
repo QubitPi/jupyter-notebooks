@@ -1,4 +1,3 @@
-# Reference (oasis_connector branch) - https://github.com/arangodb/interactive_tutorials/blob/oasis_connector/oasis.py
 import json
 import requests
 import sys
