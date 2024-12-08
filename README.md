@@ -5,6 +5,12 @@ Jupyter Notebooks
 ![Python Version Badge]
 [![Apache License Badge]][Apache License, Version 2.0]
 
+Notebooks
+---------
+
+- [ArangoDB Notebooks](./notebooks/arangodb): ArangoDB Python API
+
+
 Setup
 -----
 
