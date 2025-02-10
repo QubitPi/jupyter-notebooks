@@ -45,14 +45,6 @@ def getTempCredentials(
             return json.loads(x.text)
 
 
-# Connect against an oasis DB and return pyarango connection
-def connect(login: dict):
-    url = "https://" + login["hostname"] + ":" + str(login["port"])
-    return Connection(
-        arangoURL=url, username=login["username"], password=login["password"]
-    )
-
-
 # Connect against an oasis DB and return python-arango connection
 def connect_python_arango(login: dict):
     url = "https://" + login["hostname"] + ":" + str(login["port"])
