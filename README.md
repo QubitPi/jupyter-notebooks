@@ -44,12 +44,6 @@ It is strongly recommended to work in an isolated environment.
 > python3 -m pip install --user -U virtualenv
 > python3 -m virtualenv .venv
 > ```
->
-> and install dependencies by
->
-> ```console
-> pip3 install -r requirements.txt
-> ```
 
 Activate environment defined by each `requirements.txt` with:
 
@@ -70,6 +64,12 @@ or, on Windows
 > ```console
 > deactivate
 > ```
+
+Install dependencies by
+
+```console
+pip3 install -r requirements.txt
+```
 
 ### Starting Jupyter Server
 
