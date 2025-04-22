@@ -8,7 +8,10 @@ Jupyter Notebooks
 Notebooks
 ---------
 
-- [ArangoDB Notebooks](./notebooks/arangodb): ArangoDB Python API
+- ArangoDB
+
+  - [AQL](https://jupyter-notebooks.qubitpi.org/AQL)
+  - [Arango Search](https://jupyter-notebooks.qubitpi.org/ArangoSearch)
 
 Setup
 -----
